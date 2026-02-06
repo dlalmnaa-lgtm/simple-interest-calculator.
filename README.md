@@ -9,3 +9,4 @@ A simple shell script that calculates simple interest given principal, annual ra
 
 ## Output:
 * simple interest = p * t * r
+To run the script, use the command: bash simple-interest.sh
