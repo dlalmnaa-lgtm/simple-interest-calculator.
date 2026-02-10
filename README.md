@@ -1,10 +1,8 @@
+![CI](https://github.com/dlalmnaa-lgtm/simple-interest-calculator/actions/workflows/blank.yml/badge.svg)
 
-# This is a basic workflow to help you get started with Actions
-
-name: CI
 
 # Controls when the workflow will run
-on:
+
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
